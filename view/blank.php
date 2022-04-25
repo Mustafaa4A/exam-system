@@ -1,13 +1,11 @@
 <?php 
 require_once('../common/head.php');
-require_once('../common/header.php');
 require_once('../common/aside.php');
+require_once('../common/header.php');
 ?>
 
-<div class="container-fluid">
-
-</div>
-
+<section class="section">
+</section>
 <?php
 require_once('../common/footer.php');
 ?>
