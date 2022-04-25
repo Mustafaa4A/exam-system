@@ -72,11 +72,17 @@
                                 </li>
                             </ul>
                         </li>
-                        <li class="sidebar-item ">
-                            <a href="users.php" class='sidebar-link'>
-                                <i class="bi bi-grid-fill"></i>
+                        <li class="sidebar-item  has-sub">
+                            <a href="#" class='sidebar-link'>
+                                <i class="bi bi-stack"></i>
                                 <span>Users</span>
                             </a>
+                            <ul class="submenu ">
+                                <li class="submenu-item ">
+                                    <a href="users.php">Manage Users</a>
+                                    <a href="user_rolls.php">User Rolls</a>
+                                </li>
+                            </ul>
                         </li>
                     </ul>
                 </div>
